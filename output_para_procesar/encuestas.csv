@@ -1,0 +1,921 @@
+partido_o_alianza,candidato_a_la_presidencia,valor,mes,año,encuestadora,medio,codigo_encuesta
+MAS-IPSP,Morales,27,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+CC,Mesa,13,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Revilla,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Costas,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Doria Medina,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+21F,Ortiz,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+UCS,Cárdenas,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+MTS,Patzi,3,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+MNR,Lema,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Quiroga,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+PDC,Paz Zamora,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+PAN-BOL,Nina,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+FPV,Rodríguez,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Albarracín,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Otros,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,NS/NR,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Blanco,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Ninguno,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Nulo,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,No contesta,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Indecisos,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Voto secreto,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+NA,Blanco/Nulo,NA,noviembre,2016,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2016
+MAS-IPSP,Morales,31,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+CC,Mesa,16,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Revilla,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Costas,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Doria Medina,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+21F,Ortiz,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+UCS,Cárdenas,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+MTS,Patzi,4,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+MNR,Lema,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Quiroga,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+PDC,Paz Zamora,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+PAN-BOL,Nina,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+FPV,Rodríguez,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Albarracín,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Otros,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,NS/NR,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Blanco,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Ninguno,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Nulo,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,No contesta,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Indecisos,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Voto secreto,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+NA,Blanco/Nulo,NA,enero,2017,mercados_y_muestras,pg7,mercados_y_muestras_enero_2017
+MAS-IPSP,Morales,26,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+CC,Mesa,20,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Revilla,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Costas,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Doria Medina,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+21F,Ortiz,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+UCS,Cárdenas,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+MTS,Patzi,3,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+MNR,Lema,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Quiroga,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+PDC,Paz Zamora,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+PAN-BOL,Nina,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+FPV,Rodríguez,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Albarracín,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Otros,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,NS/NR,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Blanco,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Ninguno,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Nulo,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,No contesta,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Indecisos,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Voto secreto,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+NA,Blanco/Nulo,NA,marzo,2017,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2017
+MAS-IPSP,Morales,29,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+CC,Mesa,21,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Revilla,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Costas,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Doria Medina,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+21F,Ortiz,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+UCS,Cárdenas,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+MTS,Patzi,4,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+MNR,Lema,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Quiroga,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+PDC,Paz Zamora,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+PAN-BOL,Nina,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+FPV,Rodríguez,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Albarracín,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Otros,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,NS/NR,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Blanco,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Ninguno,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Nulo,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,No contesta,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Indecisos,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Voto secreto,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+NA,Blanco/Nulo,NA,mayo,2017,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2017
+MAS-IPSP,Morales,28,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+CC,Mesa,21,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Revilla,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Costas,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Doria Medina,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+21F,Ortiz,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+UCS,Cárdenas,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+MTS,Patzi,3,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+MNR,Lema,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Quiroga,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+PDC,Paz Zamora,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+PAN-BOL,Nina,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+FPV,Rodríguez,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Albarracín,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Otros,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,NS/NR,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Blanco,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Ninguno,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Nulo,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,No contesta,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Indecisos,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Voto secreto,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+NA,Blanco/Nulo,NA,julio,2017,mercados_y_muestras,pg7,mercados_y_muestras_julio_2017
+MAS-IPSP,Morales,27,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+CC,Mesa,17,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Revilla,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Costas,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Doria Medina,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+21F,Ortiz,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+UCS,Cárdenas,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+MTS,Patzi,3,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+MNR,Lema,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Quiroga,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+PDC,Paz Zamora,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+PAN-BOL,Nina,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+FPV,Rodríguez,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Albarracín,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Otros,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,NS/NR,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Blanco,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Ninguno,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Nulo,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,No contesta,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Indecisos,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Voto secreto,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+NA,Blanco/Nulo,NA,septiembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2017
+MAS-IPSP,Morales,36.7,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+CC,Mesa,19.6,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Revilla,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Costas,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Doria Medina,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+21F,Ortiz,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+UCS,Cárdenas,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+MTS,Patzi,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+MNR,Lema,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Quiroga,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+PDC,Paz Zamora,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+PAN-BOL,Nina,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+FPV,Rodríguez,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Albarracín,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Otros,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,NS/NR,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Blanco,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Ninguno,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Nulo,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,No contesta,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Indecisos,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Voto secreto,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+NA,Blanco/Nulo,NA,octubre,2017,captura_consulting,pat,captura_consulting_octubre_2017
+MAS-IPSP,Morales,31,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+CC,Mesa,18,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Revilla,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Costas,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Doria Medina,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+21F,Ortiz,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+UCS,Cárdenas,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+MTS,Patzi,2,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+MNR,Lema,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Quiroga,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+PDC,Paz Zamora,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+PAN-BOL,Nina,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+FPV,Rodríguez,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Albarracín,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Otros,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,NS/NR,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Blanco,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Ninguno,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Nulo,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,No contesta,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Indecisos,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Voto secreto,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+NA,Blanco/Nulo,NA,noviembre,2017,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2017
+MAS-IPSP,Morales,31.2,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+CC,Mesa,19.9,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Revilla,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Costas,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Doria Medina,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+21F,Ortiz,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+UCS,Cárdenas,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+MTS,Patzi,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+MNR,Lema,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Quiroga,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+PDC,Paz Zamora,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+PAN-BOL,Nina,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+FPV,Rodríguez,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Albarracín,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Otros,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,NS/NR,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Blanco,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Ninguno,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Nulo,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,No contesta,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Indecisos,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Voto secreto,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+NA,Blanco/Nulo,NA,diciembre,2017,captura_consulting,pat,captura_consulting_diciembre_2017
+MAS-IPSP,Morales,25.6,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+CC,Mesa,20.2,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Revilla,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Costas,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Doria Medina,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+21F,Ortiz,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+UCS,Cárdenas,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+MTS,Patzi,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+MNR,Lema,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Quiroga,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+PDC,Paz Zamora,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+PAN-BOL,Nina,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+FPV,Rodríguez,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Albarracín,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Otros,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,NS/NR,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Blanco,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Ninguno,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Nulo,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,No contesta,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Indecisos,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Voto secreto,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+NA,Blanco/Nulo,NA,enero,2018,captura_consulting,pat,captura_consulting_enero_2018
+MAS-IPSP,Morales,27.9,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+CC,Mesa,18.2,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Revilla,4.1,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Costas,9.2,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Doria Medina,7.5,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+21F,Ortiz,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+UCS,Cárdenas,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+MTS,Patzi,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+MNR,Lema,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Quiroga,3.4,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+PDC,Paz Zamora,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+PAN-BOL,Nina,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+FPV,Rodríguez,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Albarracín,2.6,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Otros,10.6,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,NS/NR,16.5,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Blanco,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Ninguno,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Nulo,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,No contesta,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Indecisos,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Voto secreto,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+NA,Blanco/Nulo,NA,marzo,2018,captura_consulting,pat,captura_consulting_marzo_2018
+MAS-IPSP,Morales,27.4,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+CC,Mesa,23.4,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Revilla,2.5,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Costas,11.8,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Doria Medina,7.2,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+21F,Ortiz,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+UCS,Cárdenas,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+MTS,Patzi,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+MNR,Lema,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Quiroga,2.7,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+PDC,Paz Zamora,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+PAN-BOL,Nina,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+FPV,Rodríguez,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Albarracín,2.5,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Otros,5.2,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,NS/NR,17.4,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Blanco,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Ninguno,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Nulo,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,No contesta,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Indecisos,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Voto secreto,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+NA,Blanco/Nulo,NA,mayo,2018,captura_consulting,pat,captura_consulting_mayo_2018
+MAS-IPSP,Morales,27,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+CC,Mesa,25,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Revilla,4,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Costas,8,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Doria Medina,7,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+21F,Ortiz,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+UCS,Cárdenas,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+MTS,Patzi,2,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+MNR,Lema,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Quiroga,3,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+PDC,Paz Zamora,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+PAN-BOL,Nina,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+FPV,Rodríguez,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Albarracín,2,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Otros,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,NS/NR,6,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Blanco,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Ninguno,16,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Nulo,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,No contesta,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Indecisos,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Voto secreto,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+NA,Blanco/Nulo,NA,julio,2018,mercados_y_muestras,pg7,mercados_y_muestras_julio_2018
+MAS-IPSP,Morales,29.1,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+CC,Mesa,21.8,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Revilla,2.1,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Costas,8.7,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Doria Medina,6.1,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+21F,Ortiz,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+UCS,Cárdenas,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+MTS,Patzi,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+MNR,Lema,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Quiroga,1.9,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+PDC,Paz Zamora,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+PAN-BOL,Nina,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+FPV,Rodríguez,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Albarracín,1.3,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Otros,4.6,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,NS/NR,24.6,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Blanco,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Ninguno,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Nulo,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,No contesta,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Indecisos,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Voto secreto,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+NA,Blanco/Nulo,NA,julio,2018,captura_consulting,pat,captura_consulting_julio_2018
+MAS-IPSP,Morales,29,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+CC,Mesa,27,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Revilla,3,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Costas,7,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Doria Medina,9,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+21F,Ortiz,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+UCS,Cárdenas,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+MTS,Patzi,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+MNR,Lema,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Quiroga,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+PDC,Paz Zamora,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+PAN-BOL,Nina,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+FPV,Rodríguez,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Albarracín,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Otros,8,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,NS/NR,5,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Blanco,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Ninguno,12,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Nulo,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,No contesta,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Indecisos,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Voto secreto,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+NA,Blanco/Nulo,NA,agosto,2018,ipsos,rtp,ipsos_agosto_2018
+MAS-IPSP,Morales,28.3,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+CC,Mesa,26.2,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Revilla,2.4,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Costas,7.6,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Doria Medina,6.8,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+21F,Ortiz,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+UCS,Cárdenas,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+MTS,Patzi,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+MNR,Lema,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Quiroga,2,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+PDC,Paz Zamora,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+PAN-BOL,Nina,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+FPV,Rodríguez,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Albarracín,1.9,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Otros,5.2,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,NS/NR,19.6,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Blanco,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Ninguno,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Nulo,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,No contesta,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Indecisos,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Voto secreto,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+NA,Blanco/Nulo,NA,septiembre,2018,captura_consulting,pat,captura_consulting_septiembre_2018
+MAS-IPSP,Morales,33,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+CC,Mesa,28,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Revilla,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Costas,10,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Doria Medina,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+21F,Ortiz,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+UCS,Cárdenas,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+MTS,Patzi,3,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+MNR,Lema,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Quiroga,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+PDC,Paz Zamora,2,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+PAN-BOL,Nina,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+FPV,Rodríguez,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Albarracín,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Otros,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,NS/NR,4,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Blanco,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Ninguno,20,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Nulo,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,No contesta,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Indecisos,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Voto secreto,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+NA,Blanco/Nulo,NA,septiembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_septiembre_2018
+MAS-IPSP,Morales,39,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+CC,Mesa,25,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Revilla,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Costas,6,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Doria Medina,4,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+21F,Ortiz,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+UCS,Cárdenas,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+MTS,Patzi,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+MNR,Lema,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Quiroga,3,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+PDC,Paz Zamora,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+PAN-BOL,Nina,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+FPV,Rodríguez,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Albarracín,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Otros,7,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,NS/NR,3,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Blanco,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Ninguno,13,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Nulo,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,No contesta,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Indecisos,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Voto secreto,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+NA,Blanco/Nulo,NA,octubre,2018,ipsos,rtp,ipsos_octubre_2018
+MAS-IPSP,Morales,31,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+CC,Mesa,33,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Revilla,1,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Costas,4,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Doria Medina,9,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+21F,Ortiz,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+UCS,Cárdenas,1,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+MTS,Patzi,1,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+MNR,Lema,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Quiroga,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+PDC,Paz Zamora,1,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+PAN-BOL,Nina,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+FPV,Rodríguez,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Albarracín,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Otros,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,NS/NR,7,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Blanco,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Ninguno,12,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Nulo,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,No contesta,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Indecisos,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Voto secreto,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+NA,Blanco/Nulo,NA,octubre,2018,mercados_y_muestras,pg7,mercados_y_muestras_octubre_2018
+MAS-IPSP,Morales,35,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+CC,Mesa,31,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Revilla,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Costas,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Doria Medina,11,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+21F,Ortiz,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+UCS,Cárdenas,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+MTS,Patzi,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+MNR,Lema,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Quiroga,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+PDC,Paz Zamora,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+PAN-BOL,Nina,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+FPV,Rodríguez,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Albarracín,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Otros,7,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,NS/NR,16,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Blanco,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Ninguno,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Nulo,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,No contesta,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Indecisos,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Voto secreto,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+NA,Blanco/Nulo,NA,octubre,2018,tal_cual,atb,tal_cual_octubre_2018
+MAS-IPSP,Morales,35,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+CC,Mesa,26,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Revilla,4,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Costas,6,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Doria Medina,4,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+21F,Ortiz,2,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+UCS,Cárdenas,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+MTS,Patzi,4,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+MNR,Lema,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Quiroga,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+PDC,Paz Zamora,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+PAN-BOL,Nina,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+FPV,Rodríguez,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Albarracín,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Otros,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,NS/NR,19,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Blanco,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Ninguno,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Nulo,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,No contesta,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Indecisos,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Voto secreto,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+NA,Blanco/Nulo,NA,octubre,2018,ciesmori,atb,ciesmori_octubre_2018
+MAS-IPSP,Morales,29,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+CC,Mesa,34,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Revilla,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Costas,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Doria Medina,10,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+21F,Ortiz,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+UCS,Cárdenas,3,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+MTS,Patzi,2,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+MNR,Lema,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Quiroga,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+PDC,Paz Zamora,4,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+PAN-BOL,Nina,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+FPV,Rodríguez,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Albarracín,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Otros,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,NS/NR,10,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Blanco,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Ninguno,7,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Nulo,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,No contesta,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Indecisos,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Voto secreto,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+NA,Blanco/Nulo,NA,noviembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_noviembre_2018
+MAS-IPSP,Morales,30,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+CC,Mesa,39,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Revilla,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Costas,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Doria Medina,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+21F,Ortiz,4,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+UCS,Cárdenas,3,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+MTS,Patzi,2,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+MNR,Lema,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Quiroga,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+PDC,Paz Zamora,2,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+PAN-BOL,Nina,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+FPV,Rodríguez,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Albarracín,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Otros,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,NS/NR,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Blanco,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Ninguno,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Nulo,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,No contesta,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Indecisos,20,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Voto secreto,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+NA,Blanco/Nulo,NA,diciembre,2018,mercados_y_muestras,pg7,mercados_y_muestras_diciembre_2018
+MAS-IPSP,Morales,34.5,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+CC,Mesa,22.2,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Revilla,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Costas,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Doria Medina,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+21F,Ortiz,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+UCS,Cárdenas,1.2,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+MTS,Patzi,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+MNR,Lema,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Quiroga,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+PDC,Paz Zamora,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+PAN-BOL,Nina,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+FPV,Rodríguez,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Albarracín,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Otros,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,NS/NR,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Blanco,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Ninguno,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Nulo,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,No contesta,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Indecisos,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Voto secreto,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+NA,Blanco/Nulo,NA,diciembre,2018,captura_consulting,pat,captura_consulting_diciembre_2018
+MAS-IPSP,Morales,32,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+CC,Mesa,32,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Revilla,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Costas,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Doria Medina,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+21F,Ortiz,4,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+UCS,Cárdenas,2,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+MTS,Patzi,2,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+MNR,Lema,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Quiroga,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+PDC,Paz Zamora,3,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+PAN-BOL,Nina,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+FPV,Rodríguez,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Albarracín,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Otros,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,NS/NR,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Blanco,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Ninguno,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Nulo,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,No contesta,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Indecisos,25,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Voto secreto,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+NA,Blanco/Nulo,NA,enero,2019,mercados_y_muestras,pg7,mercados_y_muestras_enero_2019
+MAS-IPSP,Morales,33.4,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+CC,Mesa,21.9,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Revilla,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Costas,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Doria Medina,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+21F,Ortiz,6.2,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+UCS,Cárdenas,3.1,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+MTS,Patzi,1.9,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+MNR,Lema,0.4,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Quiroga,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+PDC,Paz Zamora,1.2,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+PAN-BOL,Nina,0.8,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+FPV,Rodríguez,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Albarracín,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Otros,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,NS/NR,13.4,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Blanco,18,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Ninguno,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Nulo,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,No contesta,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Indecisos,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Voto secreto,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+NA,Blanco/Nulo,NA,enero,2019,captura_consulting,pat,captura_consulting_enero_2019
+MAS-IPSP,Morales,35.6,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+CC,Mesa,30.5,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Revilla,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Costas,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Doria Medina,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+21F,Ortiz,6.6,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+UCS,Cárdenas,4.1,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+MTS,Patzi,0.8,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+MNR,Lema,2.2,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Quiroga,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+PDC,Paz Zamora,3.1,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+PAN-BOL,Nina,0.3,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+FPV,Rodríguez,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Albarracín,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Otros,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,NS/NR,16.7,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Blanco,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Ninguno,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Nulo,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,No contesta,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Indecisos,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Voto secreto,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+NA,Blanco/Nulo,NA,febrero,2019,tal_cual,atb,tal_cual_febrero_2019
+MAS-IPSP,Morales,31,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+CC,Mesa,30,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Revilla,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Costas,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Doria Medina,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+21F,Ortiz,7,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+UCS,Cárdenas,2,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+MTS,Patzi,2,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+MNR,Lema,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Quiroga,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+PDC,Paz Zamora,3,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+PAN-BOL,Nina,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+FPV,Rodríguez,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Albarracín,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Otros,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,NS/NR,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Blanco,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Ninguno,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Nulo,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,No contesta,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Indecisos,25,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Voto secreto,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+NA,Blanco/Nulo,NA,febrero,2019,mercados_y_muestras,pg7,mercados_y_muestras_febrero_2019
+MAS-IPSP,Morales,37.5,marzo,2019,celag,celag,celag_marzo_2019
+CC,Mesa,28.6,marzo,2019,celag,celag,celag_marzo_2019
+NA,Revilla,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Costas,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Doria Medina,NA,marzo,2019,celag,celag,celag_marzo_2019
+21F,Ortiz,7.6,marzo,2019,celag,celag,celag_marzo_2019
+UCS,Cárdenas,4.1,marzo,2019,celag,celag,celag_marzo_2019
+MTS,Patzi,2.7,marzo,2019,celag,celag,celag_marzo_2019
+MNR,Lema,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Quiroga,NA,marzo,2019,celag,celag,celag_marzo_2019
+PDC,Paz Zamora,NA,marzo,2019,celag,celag,celag_marzo_2019
+PAN-BOL,Nina,NA,marzo,2019,celag,celag,celag_marzo_2019
+FPV,Rodríguez,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Albarracín,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Otros,1.3,marzo,2019,celag,celag,celag_marzo_2019
+NA,NS/NR,5.3,marzo,2019,celag,celag,celag_marzo_2019
+NA,Blanco,9.3,marzo,2019,celag,celag,celag_marzo_2019
+NA,Ninguno,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Nulo,3.6,marzo,2019,celag,celag,celag_marzo_2019
+NA,No contesta,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Indecisos,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Voto secreto,NA,marzo,2019,celag,celag,celag_marzo_2019
+NA,Blanco/Nulo,NA,marzo,2019,celag,celag,celag_marzo_2019
+MAS-IPSP,Morales,31,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+CC,Mesa,32,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Revilla,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Costas,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Doria Medina,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+21F,Ortiz,8,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+UCS,Cárdenas,2,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+MTS,Patzi,3,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+MNR,Lema,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Quiroga,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+PDC,Paz Zamora,2,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+PAN-BOL,Nina,1,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+FPV,Rodríguez,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Albarracín,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Otros,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,NS/NR,11,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Blanco,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Ninguno,10,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Nulo,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,No contesta,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Indecisos,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Voto secreto,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+NA,Blanco/Nulo,NA,marzo,2019,mercados_y_muestras,pg7,mercados_y_muestras_marzo_2019
+MAS-IPSP,Morales,30.2,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+CC,Mesa,26.1,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Revilla,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Costas,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Doria Medina,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+21F,Ortiz,8.2,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+UCS,Cárdenas,2.8,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+MTS,Patzi,1.3,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+MNR,Lema,0.5,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Quiroga,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+PDC,Paz Zamora,2.6,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+PAN-BOL,Nina,1.6,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+FPV,Rodríguez,0.3,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Albarracín,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Otros,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,NS/NR,26.6,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Blanco,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Ninguno,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Nulo,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,No contesta,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Indecisos,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Voto secreto,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+NA,Blanco/Nulo,NA,marzo,2019,captura_consulting,pat,captura_consulting_marzo_2019
+MAS-IPSP,Morales,33,abril,2019,ipsos,rtp,ipsos_abril_2019
+CC,Mesa,25,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Revilla,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Costas,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Doria Medina,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+21F,Ortiz,7,abril,2019,ipsos,rtp,ipsos_abril_2019
+UCS,Cárdenas,2,abril,2019,ipsos,rtp,ipsos_abril_2019
+MTS,Patzi,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+MNR,Lema,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Quiroga,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+PDC,Paz Zamora,3,abril,2019,ipsos,rtp,ipsos_abril_2019
+PAN-BOL,Nina,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+FPV,Rodríguez,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Albarracín,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Otros,8,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,NS/NR,7,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Blanco,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Ninguno,15,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Nulo,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,No contesta,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Indecisos,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Voto secreto,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+NA,Blanco/Nulo,NA,abril,2019,ipsos,rtp,ipsos_abril_2019
+MAS-IPSP,Morales,34,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+CC,Mesa,28,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Revilla,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Costas,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Doria Medina,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+21F,Ortiz,8,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+UCS,Cárdenas,1,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+MTS,Patzi,3,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+MNR,Lema,1,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Quiroga,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+PDC,Paz Zamora,1,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+PAN-BOL,Nina,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+FPV,Rodríguez,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Albarracín,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Otros,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,NS/NR,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Blanco,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Ninguno,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Nulo,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,No contesta,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Indecisos,24,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Voto secreto,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+NA,Blanco/Nulo,NA,abril,2019,mercados_y_muestras,pg7,mercados_y_muestras_abril_2019
+MAS-IPSP,Morales,38.1,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+CC,Mesa,27.1,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Revilla,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Costas,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Doria Medina,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+21F,Ortiz,8.7,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+UCS,Cárdenas,3.6,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+MTS,Patzi,1.3,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+MNR,Lema,1.9,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Quiroga,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+PDC,Paz Zamora,2.8,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+PAN-BOL,Nina,0.5,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+FPV,Rodríguez,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Albarracín,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Otros,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,NS/NR,16.2,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Blanco,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Ninguno,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Nulo,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,No contesta,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Indecisos,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Voto secreto,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+NA,Blanco/Nulo,NA,mayo,2019,tal_cual,la_razon,tal_cual_mayo_2019
+MAS-IPSP,Morales,34,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+CC,Mesa,28,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Revilla,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Costas,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Doria Medina,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+21F,Ortiz,10,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+UCS,Cárdenas,1,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+MTS,Patzi,2,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+MNR,Lema,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Quiroga,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+PDC,Paz Zamora,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+PAN-BOL,Nina,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+FPV,Rodríguez,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Albarracín,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Otros,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,NS/NR,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Blanco,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Ninguno,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Nulo,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,No contesta,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Indecisos,24,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Voto secreto,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+NA,Blanco/Nulo,NA,mayo,2019,mercados_y_muestras,pg7,mercados_y_muestras_mayo_2019
+MAS-IPSP,Morales,37,julio,2019,ciesmori,NA,ciesmori_julio_2019
+CC,Mesa,26,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Revilla,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Costas,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Doria Medina,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+21F,Ortiz,9,julio,2019,ciesmori,NA,ciesmori_julio_2019
+UCS,Cárdenas,3,julio,2019,ciesmori,NA,ciesmori_julio_2019
+MTS,Patzi,2,julio,2019,ciesmori,NA,ciesmori_julio_2019
+MNR,Lema,1,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Quiroga,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+PDC,Paz Zamora,0.3,julio,2019,ciesmori,NA,ciesmori_julio_2019
+PAN-BOL,Nina,1,julio,2019,ciesmori,NA,ciesmori_julio_2019
+FPV,Rodríguez,0.3,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Albarracín,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Otros,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,NS/NR,7,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Blanco,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Ninguno,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Nulo,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,No contesta,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Indecisos,NA,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Voto secreto,2,julio,2019,ciesmori,NA,ciesmori_julio_2019
+NA,Blanco/Nulo,12,julio,2019,ciesmori,NA,ciesmori_julio_2019
+MAS-IPSP,Morales,38.4,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+CC,Mesa,23.6,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Revilla,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Costas,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Doria Medina,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+21F,Ortiz,11.9,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+UCS,Cárdenas,2.6,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+MTS,Patzi,1.9,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+MNR,Lema,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Quiroga,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+PDC,Paz Zamora,1.7,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+PAN-BOL,Nina,0.9,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+FPV,Rodríguez,0.1,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Albarracín,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Otros,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,NS/NR,18.9,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Blanco,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Ninguno,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Nulo,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,No contesta,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Indecisos,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Voto secreto,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+NA,Blanco/Nulo,NA,julio,2019,captura_consulting,pat,captura_consulting_julio_2019
+MAS-IPSP,Morales,35,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+CC,Mesa,27,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Revilla,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Costas,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Doria Medina,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+21F,Ortiz,11,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+UCS,Cárdenas,1,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+MTS,Patzi,2,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+MNR,Lema,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Quiroga,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+PDC,Paz Zamora,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+PAN-BOL,Nina,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+FPV,Rodríguez,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Albarracín,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Otros,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,NS/NR,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Blanco,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Ninguno,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Nulo,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,No contesta,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Indecisos,24,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Voto secreto,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+NA,Blanco/Nulo,NA,julio,2019,mercados_y_muestras,Página Siete/Los Tiempos/Asuntos Centrales,mercados_y_muestras_julio_2019
+MAS-IPSP,Morales,39.1,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+CC,Mesa,22,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Revilla,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Costas,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Doria Medina,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+21F,Ortiz,9.5,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+UCS,Cárdenas,1.2,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+MTS,Patzi,2.5,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+MNR,Lema,0.4,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Quiroga,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+PDC,Paz Zamora,0.8,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+PAN-BOL,Nina,0.3,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+FPV,Rodríguez,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Albarracín,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Otros,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,NS/NR,10.9,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Blanco,3.5,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Ninguno,9.8,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Nulo,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,No contesta,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Indecisos,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Voto secreto,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+NA,Blanco/Nulo,NA,agosto,2019,viaciencia,Red Uno/ATB/Unitel/Bolivisión/PAT,viaciencia_agosto_2019
+MAS-IPSP,Morales,40,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+CC,Mesa,23,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Revilla,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Costas,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Doria Medina,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+21F,Ortiz,11,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+UCS,Cárdenas,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+MTS,Patzi,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+MNR,Lema,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Quiroga,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+PDC,Paz Zamora,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+PAN-BOL,Nina,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+FPV,Rodríguez,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Albarracín,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Otros,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,NS/NR,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Blanco,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Ninguno,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Nulo,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,No contesta,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Indecisos,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Voto secreto,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019
+NA,Blanco/Nulo,NA,agosto,2019,tal_cual,la_razon,tal_cual_agosto_2019

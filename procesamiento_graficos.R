@@ -3,7 +3,7 @@ library(tidyverse)
 library(highcharter)
 library(broom)
 library(magrittr)
-View(fichas)
+
 encuestas <- rio::import("output_para_procesar/encuestas.xlsx")
 
 encuestas %>% 
@@ -15,7 +15,7 @@ encuestas %>%
   right_join(encuestas, .) %>% 
   mutate(fecha = paste0(mes, " ", año)) -> encuestas
 
-fichas <- readxl::read_excel("output_para_procesar/fichas_hn_suki.xlsx") %>% 
+fichas <- readxl::read_excel("output_para_procesar/fichas.xlsx") %>% 
   select(-no, -año) %>% 
   filter(!is.na(codigo_encuesta)) %>% 
   filter(str_detect(codigo_encuesta, "\\*|:", negate = T)) %>% 
@@ -88,91 +88,7 @@ no_declarado <- df %>%
 # correcion de NA para valores de otros y no declarados
 no_declarado[which(no_declarado$valor == 0), "valor"] <- NA
 
-# gráfico 1 con arearange
-hc <- highchart() %>% 
-  hc_add_series(morales, type = "arearange", color = "#CCFFFF", opacity = 1,
-                hcaes(x = as.factor(fecha_1) , low = min, high = max), linkedTo = "morales",
-                tooltip = list(pointFormat = paste("<b>Evo Morales<b><br>
-                                                   Rango posible votación: {point.min} - {point.max}"))) %>% 
-  hc_add_series(morales, type = "line", color = 'blue', 
-                hcaes(x = fecha, y = valor, group = candidato),
-                tooltip = list(pointFormat = paste("<b>Evo Morales:<b> {point.valor} %<br>
-                                                         <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
-                                                         <b>Encuestadora:<b> {point.encuestadora_1}<br>
-                                                         <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
-                ), headerFormat = ""),
-                name = "Evo Morales", id = "morales") %>% 
-  hc_add_series(mesa, type = "arearange", color = "#FBF6D9", opacity = 1,
-                hcaes(x = as.factor(mesa$fecha_conclusion_encuesta), low = min, high = max), linkedTo = "mesa",
-                tooltip = list(pointFormat = paste("<b>Carlos Mesa<b><br>
-                                                   Rango posible votación: {point.min} - {point.max}"))) %>% 
-  hc_add_series(mesa, type = "line", color = 'orange', 
-                hcaes(x = as.factor(mesa$fecha_conclusion_encuesta), y = valor, group = candidato),
-                tooltip = list(pointFormat = paste("<b>Carlos Mesa:<b> {point.valor} %<br>
-                                                         <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
-                                                         <b>Encuestadora:<b> {point.encuestadora_1}<br>
-                                                         <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
-                ), headerFormat = ""),
-                name = "Carlos Mesa", id = "mesa") %>% 
-  hc_add_series(ortiz, type = "arearange", color = "#E2A76F", opacity = 1,
-                hcaes(x = as.factor(ortiz$fecha_conclusion_encuesta), low = min, high = max), linkedTo = "ortiz",
-                tooltip = list(pointFormat = paste("<b>Oscar Ortiz<b><br>
-                                                   Rango posible votación: {point.min} - {point.max}"))) %>% 
-  hc_add_series(ortiz, type = "line", color = 'red', 
-                hcaes(x = as.factor(ortiz$fecha_conclusion_encuesta), y = valor, group = candidato),
-                tooltip = list(pointFormat = paste("<b>Oscar Ortiz:<b> {point.valor} %<br>
-                                                         <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
-                                                         <b>Encuestadora:<b> {point.encuestadora_1}<br>
-                                                         <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
-                ), headerFormat = ""),
-                name = "Oscar Ortiz", id = "ortiz") %>% 
-  hc_add_series(otros, type = "arearange", color = "#DCDCDC", opacity = 1,
-                hcaes(x = as.factor(fecha_1) , low = min, high = max), linkedTo = "otros",
-                tooltip = list(pointFormat = paste("<b>Otros<b><br>
-                                                   Rango posible votación: {point.min} - {point.max}"))) %>% 
-  hc_add_series(otros, type = "line", color = '#A9A9A9', 
-                hcaes(x = as.factor(fecha_1), y = valor, group = candidato),
-                tooltip = list(pointFormat = paste("<b>Otros:<b> {point.valor} %<br>
-                                                         <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
-                                                         <b>Encuestadora:<b> {point.encuestadora_1}<br>
-                                                         <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
-                ), headerFormat = ""),
-                name = "Otras candidaturas", id = "otros") %>% 
-  hc_add_series(no_declarado, type = "arearange", color = "#7fff7f", opacity = 1,
-                hcaes(x = as.factor(fecha_1) , low = min, high = max), linkedTo = "no_declarado",
-                tooltip = list(pointFormat = paste("<b>Otros<b><br>
-                                                   Rango posible votación: {point.min} - {point.max}"))) %>% 
-  hc_add_series(no_declarado, type = "line", color = '#00b200', 
-                hcaes(x = as.factor(fecha_1), y = valor),
-                tooltip = list(pointFormat = paste("<b>No declarado:<b> {point.valor} %<br>
-                                                         <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
-                                                         <b>Encuestadora:<b> {point.encuestadora_1}<br>
-                                                         <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
-                ), headerFormat = ""),
-                name = "Voto no declarado", id = "no_declarado") %>%
-  hc_xAxis(categories = morales$fecha_1,
-           tickmarkPlacement = "on",
-           title = list(enabled = T)) %>% 
-  hc_yAxis(title = list(text = "Intención de voto")) %>% 
-  hc_title(text = "Tendencia electoral") %>% 
-  hc_subtitle(text = "Elecciones generales Bolivia 2019") %>% 
-  hc_tooltip(shared = F) %>% 
-  hc_plotOptions(arearange = list(
-    marker = list(
-      lineWidth = 1/100,
-      lineColor = "#ffffff",
-      enabled = F
-    ))
-  ) %>% 
-  hc_add_theme(hc_theme_gridlight())
-
-
-# gráfico 2 sin arearange
+# gráfico 2 sin márgenes de error
 hc2 <- highchart() %>% 
   hc_add_series(morales, type = "line", color = 'blue', 
                 hcaes(x = fecha, y = valor, group = candidato),
@@ -243,7 +159,8 @@ hc2 <- highchart() %>%
     ))
   ) %>% 
   hc_add_theme(hc_theme_elementary()) %>% 
-  hc_credits(enabled = TRUE, text = "seleccione las candidaturas") 
-hc2
+  hc_credits(enabled = TRUE, text = "Bolivia Electoral", href = "http://www.boliviaelectoral.com/") 
+
+
 htmlwidgets::saveWidget(hc2, here::here("img", "sin_margen_error.html"))
 

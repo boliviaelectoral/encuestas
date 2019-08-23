@@ -63,6 +63,9 @@ Row {.tabset .tabset-fade}
 <center><a href="https://docs.google.com/spreadsheets/d/1h8yQCUJCUqaIsVPPWz6TDSx5wbl8-g-ksAaaoxT6qb4/edit#gid=357606713"><i class="fa fa-database fa-4x"></i></a></center>
 
 ### Fuentes de encuestas
+<iframe frameBorder="0" src="img/tabla.html" width="100%" height="100%" allowtransparency="true"></iframe>
+
+> Página Siete informa que la encuesta de Mercados y Muestras se realizó días antes del fallo de la Haya, en el que Bolivia demandó a Chile, que fue el 1 de octubre de 2018.
 
 Sobre el proyecto {data-icon="fa-sticky-note"}
 =====================================  

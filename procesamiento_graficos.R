@@ -159,7 +159,10 @@ hc2 <- highchart() %>%
     ))
   ) %>% 
   hc_add_theme(hc_theme_elementary()) %>% 
-  hc_credits(enabled = TRUE, text = "Bolivia Electoral", href = "http://www.boliviaelectoral.com/") 
+  hc_credits(enabled = TRUE, text = "Bolivia Electoral", href = "http://www.boliviaelectoral.com/") %>% 
+  hc_exporting(
+    enabled = TRUE
+  )
 
 
 htmlwidgets::saveWidget(hc2, here::here("img", "sin_margen_error.html"))

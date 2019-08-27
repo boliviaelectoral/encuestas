@@ -23,7 +23,7 @@ Row {.tabset .tabset-fade}
 
 
 ### Resultados con ponderaciones
-<iframe width="983" height="452" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrkrs91NFfjIgL76DyQATvjAsaklmOxLkxS1y4cJorP8Bk92wmDxFprhHIxgi-eGeBotlHD3_W8mpx/pubchart?oid=1247236956&amp;format=interactive"></iframe>
+<iframe frameBorder="0" src="img/tendencia.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 ### Metodología 
 

@@ -3,6 +3,8 @@ library(tidyverse)
 library(highcharter)
 library(broom)
 library(magrittr)
+library(googlesheets)
+
 
 encuestas <- rio::import("output_para_procesar/encuestas.xlsx")
 
@@ -166,4 +168,12 @@ hc2 <- highchart() %>%
 
 
 htmlwidgets::saveWidget(hc2, here::here("img", "sin_margen_error.html"))
+
+
+
+
+
+
+
+
 

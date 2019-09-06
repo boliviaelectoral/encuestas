@@ -19,6 +19,26 @@ evo <- df %>% filter(candidato_a_la_presidencia == "Morales")
 mesa <- df %>% filter(candidato_a_la_presidencia == "Mesa")
 ortiz <- df %>% filter(candidato_a_la_presidencia == "Ortiz")
 
+evo_pred <- loess(valor ~ num, data = evo, degree = 2)
+fit_evo <- arrange(augment(evo_pred), num) %>% 
+  mutate(no = 1:nrow(.)) %>% 
+  filter(no != 24)
+
+mesa_pred <- loess(valor ~ num, data = mesa, degree = 2)
+fit_mesa <- arrange(augment(mesa_pred), num) %>% 
+  mutate(no = 1:nrow(.))
+
+ortiz_pred <- loess(valor ~ num, data = ortiz, degree = 2)
+fit_ortiz <- arrange(augment(ortiz_pred), num) %>% 
+  mutate(no = 1:nrow(.))
+
+ort_fecha <- ortiz %>% 
+  select(fecha, valor, num)
+
+ort_fecha %<>% merge(., fit_ortiz, all.x = T) %>% 
+  arrange(num)
+
+
 
 hc3 <- highchart() %>% 
   hc_add_series(evo, type = "line", color = highcharter::hex_to_rgba("blue", alpha = 0.2), 
@@ -47,7 +67,9 @@ hc3 <- highchart() %>%
                 name = "Fit", linkedTo = "ortiz") %>% 
   hc_xAxis(categories = evo$fecha,
            tickmarkPlacement = "on",
-           title = list(enabled = T)) %>% 
+           title = list(enabled = T), 
+           labels = list(rotation = 315), 
+           opposite = F) %>% 
   hc_plotOptions(line = list(
     lineWidth = 4,
     connectNulls = F,

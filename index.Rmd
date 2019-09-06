@@ -1,5 +1,5 @@
 ---
-title: "Encuestas 2019"
+title: "Encuestas electorales"
 output: 
   flexdashboard::flex_dashboard:
     theme: readable
@@ -20,30 +20,31 @@ Row {.tabset .tabset-fade}
 -------------------------------------
 ### Resultados sin ponderaciones
 <iframe frameBorder="0" src="img/sin_margen_error.html" width="100%" height="100%" allowtransparency="true"></iframe>
+> <img src="img/cc.png"  height="15" width="40">
 
 
 ### Resultados con ponderaciones
 <iframe frameBorder="0" src="img/tendencia.html" width="100%" height="100%" allowtransparency="true"></iframe>
+> <img src="img/cc.png"  height="15" width="40">
 
 ### Metodología 
 
 <b><h3>Sobre resultados **sin** ponderaciones</h3></b>
 
-Debido a que las encuestadoras han preguntado a votantes acerca de su intención de voto por 14 candidatos distintos (durante el periodo analizado), incluir líneas individuales para cada uno de ellos genera más ruido que claridad en la representación gráfica de tendencias, por lo cual las visualizaciones incluyen únicamente datos para las tres postulaciones con mayor intención de voto. Si gusta consultar la base de datos con los resultados disgregados, incluyendo al resto de los candidatos, puede hacerlo en el siguiente enlace. <br>
+Debido a que las encuestadoras han preguntado a votantes acerca de su intención de voto por 16 candidatos distintos (durante el periodo analizado), incluir líneas individuales para cada uno de ellos genera más ruido que claridad en la representación gráfica de tendencias, por lo cual las visualizaciones incluyen únicamente datos para las tres postulaciones con mayor intención de voto. Si gusta consultar la base de datos con los resultados disgregados, incluyendo al resto de los candidatos, puede hacerlo en el siguiente enlace.
 
-Existen muchos datos relevantes al monitoreo de lo que denominamos el “voto no declarado”. Dependiendo de la encuestadora, incluyen categorías tales como “Blanco”, “Ninguno”, “Nulo”, “No contesta”, “Indecisos”, “Voto secreto”, y “Blanco/Nulo” de forma agregada. Para simplificar el análisis, se han consolidado estas categorías bajo un solo 
-rótulo de “voto no declarado”. No todas las encuestas publicadas incluyen este dato, pues algunas se limitan a reportar únicamente las intenciones de voto.<br> 
+Existen muchos datos relevantes al monitoreo de lo que denominamos el “voto no declarado”. Dependiendo de la encuestadora, incluyen categorías tales como “”No sabe/No responde”, “Blanco”, “Ninguno”, “Nulo”, “No contesta”, “Indecisos”, “Voto secreto”, “Blanco/Nulo” y “Ninguno/Blanco/Nulo”. Para simplificar el análisis, se han consolidado estas categorías bajo un solo rótulo de “voto no declarado”. No todas las encuestas publicadas incluyen este dato, pues algunas se limitan a reportar únicamente las intenciones de voto.
 
-Algunas encuestas no reportan datos sobre el “voto n o declarado”. En este caso se dejó en blanco la información para mostrar la ausencia<br>
+Algunas encuestas no reportan datos sobre el “voto no declarado”. En este caso se dejó en blanco la información para mostrar la ausencia.<br>
 <br>
 <br>
 
 
 <h3><b>Sobre resultados **con** ponderaciones</h3></b>
 
-Considerando que algunos meses incluyen la publicación de varias encuestas, la presente visualización realiza una síntesis numérica en base a promedios para las encuestas realizadas. Se toman dos criterios para generar promedios ponderados. En primer lugar, la cobertura de la muestra pretende asignar mayor peso a aquellas encuestas cuyo marco muestral cubre una mayor proporción del país (ej. capitales + ciudades intermedias + área rural > eje troncal). Este criterio representa 60% de la ponderación. Para el 40% restante, se toman los tamaños de las muestras de cada encuesta, con el fin de asignarle un mayor peso a las que tienen un número elevado de casos (2400 observaciones > 800).<br>
+Considerando que algunos meses incluyen la publicación de varias encuestas, la presente visualización realiza una síntesis numérica en base a promedios para las encuestas realizadas. Se toman dos criterios para generar promedios ponderados. En primer lugar, la cobertura de la muestra pretende asignar mayor peso a aquellas encuestas cuyo marco muestral cubre una mayor proporción del país (ej. capitales + ciudades intermedias + área rural > eje troncal). Este criterio representa 60% de la ponderación. Para el 40% restante, se toman los tamaños de las muestras de cada encuesta, con el fin de asignarle un mayor peso a las que tienen un número elevado de casos (2400 observaciones > 800).
 
-Para el mes de junio 2019 (durante el cual no se publicaron encuestas, en buena parte debido a restricciones por parte del TSE), se incluye una estimación que toma como promedio los datos del mes anterior y el mes siguiente. 
+Para el mes de junio 2019 (durante el cual no se publicaron encuestas, en buena parte debido a restricciones por parte del Tribunal Supremo Electoral [TSE]), se incluye una estimación que toma como promedio los datos del mes anterior y el mes siguiente. 
 
 
 Base de datos {data-icon="fa-database"}
@@ -69,13 +70,13 @@ Row {.tabset .tabset-fade}
 
 Sobre el proyecto {data-icon="fa-sticky-note"}
 =====================================  
-<h3>Esta iniciativa busca recopilar información relevante para el proceso electoral en Bolivia, de cara a las elecciones generales del 20 de octubre de 2019. En su primera fase, el proyecto reúne cifras de todas las encuestas electorales publicadas en Bolivia desde noviembre de 2016 hasta la fecha, difundidos en más de 10 medios, y producidos por 7 encuestadoras. En base a la visualización y sistematización de más de 40 encuestas publicadas, el objetivo consiste en ofrecer insumos para analizar estos resultados en su conjunto.<br>
+Esta iniciativa busca recopilar información relevante para el proceso electoral en Bolivia, de cara a las elecciones generales del 20 de octubre de 2019. En su primera fase, el proyecto reúne cifras de todas las encuestas electorales publicadas en Bolivia desde noviembre de 2016 hasta la fecha, difundidos en más de 10 medios, y producidos por 7 encuestadoras. En base a la visualización y sistematización de más de 46 encuestas publicadas, el objetivo consiste en ofrecer insumos para analizar estos resultados en su conjunto.<br>
 <br>
 
 Los datos publicados pueden ser usados por terceros siempre y cuando se cite la fuente [www.boliviaelectoral.com](www.boliviaelectoral.com)<br>
 <br>
 
-El proyecto se realiza con apoyo de la [Fundación Friedrich Ebert (FES)](https://www.fes-bolivia.org/). Para mayor información comunicarse con info@fes-bolivia.org<br></h3><br>
+El proyecto se realiza con apoyo de la [Fundación Friedrich Ebert (FES)](https://www.fes-bolivia.org/). Para mayor información comunicarse con info@fes-bolivia.org<br><br>
 <br>
 <br>
 

@@ -2,6 +2,8 @@
 library(tidyverse)
 library(magrittr)
 library(janitor)
+library(broom)
+
 
 df <- rio::import("input/Cuadro de intención de voto en el nivel nacional en porcentajes_1.xlsx") %>% 
   clean_names()
@@ -79,3 +81,4 @@ df %>%
 
 df %>% 
   write_csv("output_para_procesar/encuestas.csv")
+

@@ -20,12 +20,12 @@ Row {.tabset .tabset-fade}
 -------------------------------------
 ### Resultados sin ponderaciones
 <iframe frameBorder="0" src="img/sin_margen_error.html" width="100%" height="100%" allowtransparency="true"></iframe>
-> <img src="img/cc.png"  height="15" width="40">
+
 
 
 ### Resultados con ponderaciones
 <iframe frameBorder="0" src="img/tendencia.html" width="100%" height="100%" allowtransparency="true"></iframe>
-> <img src="img/cc.png"  height="15" width="40">
+
 
 ### Metodología 
 
@@ -66,8 +66,6 @@ Row {.tabset .tabset-fade}
 ### Fuentes de encuestas
 <iframe frameBorder="0" src="img/tabla.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
-> Página Siete informa que la encuesta de Mercados y Muestras se realizó días antes del fallo de la Haya, en el que Bolivia demandó a Chile, que fue el 1 de octubre de 2018.
-
 Sobre el proyecto {data-icon="fa-sticky-note"}
 =====================================  
 Esta iniciativa busca recopilar información relevante para el proceso electoral en Bolivia, de cara a las elecciones generales del 20 de octubre de 2019. En su primera fase, el proyecto reúne cifras de todas las encuestas electorales publicadas en Bolivia desde noviembre de 2016 hasta la fecha, difundidos en más de 10 medios, y producidos por 7 encuestadoras. En base a la visualización y sistematización de más de 46 encuestas publicadas, el objetivo consiste en ofrecer insumos para analizar estos resultados en su conjunto.<br>
@@ -79,29 +77,4 @@ Los datos publicados pueden ser usados por terceros siempre y cuando se cite la 
 El proyecto se realiza con apoyo de la [Fundación Friedrich Ebert (FES)](https://www.fes-bolivia.org/). Para mayor información comunicarse con info@fes-bolivia.org<br><br>
 <br>
 <br>
-
-### Más de 40 encuestas
-
-```{r}
-flexdashboard::valueBox(40, icon = "fa-chart-bar")
-```
-
-### Difundidas en más de 10 medios
-
-```{r}
-flexdashboard::valueBox(10, icon = "fa-newspaper")
-```
-
-### 7 Encuestadoras
-
-```{r}
-flexdashboard::valueBox(7, icon = "fa-vote-yea")
-```
-
-### De noviembre 2016 a la fecha 
-
-```{r}
-flexdashboard::valueBox("3 años", icon = "fa-calendar-alt")
-```
-
-
+<img src="img/cc.png"  height="40" width="100">

@@ -1,5 +1,8 @@
 ---
 title: "Encuestas 2019"
+header-includes:
+    <meta name="keywords" content="Foo,Bar" />
+    <meta name="description" content="My description" />
 output: 
   flexdashboard::flex_dashboard:
     theme: readable
@@ -11,6 +14,16 @@ knitr::opts_knit$set(self.contained = T)
 #source("procesamiento_graficos.R")
 library(readr)
 ```
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-147536052-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-147536052-1');
+</script>
 
 
 Resultados encuestas {data-icon="fa-chart-bar"}

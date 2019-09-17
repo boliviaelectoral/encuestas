@@ -48,6 +48,9 @@ df$margen_de_error %<>% gsub(",", ".", .)
 df$confianza %<>% gsub("%", "", .)
 df$valor %<>% gsub(",", ".", .)
 df$valor %<>% as.numeric() 
+df$alcance_de_la_muestra %<>% gsub("\\*", "", .)
+df$alcance_de_la_muestra %<>% as.numeric()
+
 
 df %<>% 
   mutate(
@@ -63,13 +66,28 @@ df %<>%
     min = valor - margen_error,
     max = valor + margen_error,
     dia_cierre = lubridate::day(fecha_conclusion_encuesta),
+    mes = lubridate::month(fecha_conclusion_encuesta),
+    mes = case_when(
+      mes == 1 ~ "enero",
+      mes == 2 ~ "febrero",
+      mes == 3 ~ "marzo",
+      mes == 4 ~ "abril",
+      mes == 5 ~ "mayo",
+      mes == 6 ~ "junio",
+      mes == 7 ~ "julio",
+      mes == 8 ~ "agosto",
+      mes == 9 ~ "septiembre",
+      mes == 10 ~ "octubre",
+      mes == 11 ~ "noviembre",
+      mes == 12 ~ "diciembre"
+    ),
     fecha_1 = paste0(dia_cierre, " de ", mes, " de ", lubridate::year(fecha_conclusion_encuesta)),
     fecha_2 = paste0(mes, " ", ano)
   ) %>% 
-  arrange(fecha_inicio_encuesta) %>% 
+  arrange(fecha_conclusion_encuesta) %>% 
   filter(!is.na(margen_error))  
 
-df %<>% arrange(fecha_inicio_encuesta)
+df %<>% arrange(fecha_conclusion_encuesta)
 df$encuestadora_1 <- df$encuestadora %>% gsub("_", " ", .)
 df$encuestadora_1 %<>% str_to_title(.)
 df$encuestadora_1 %<>% gsub("Mercados Y Muestras", "Mercados y Muestras", .)
@@ -108,6 +126,11 @@ no_declarado <- df %>%
 no_declarado[which(no_declarado$valor == 0), "valor"] <- NA
 
 # gráfico 2 sin márgenes de error
+fecha_actualizacion <- Sys.Date()
+fecha_actualizacion <- paste0("Actualizado el: ", lubridate::day(fecha_actualizacion),
+                              "-", lubridate::month(fecha_actualizacion), 
+                              "-", lubridate::year(fecha_actualizacion))
+
 hc2 <- highchart() %>% 
   hc_add_series(morales, type = "line", color = 'blue', 
                 hcaes(x = fecha, y = valor, group = candidato),
@@ -115,7 +138,7 @@ hc2 <- highchart() %>%
                                                          <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
                                                          <b>Encuestadora:<b> {point.encuestadora_1}<br>
                                                          <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
+                                                         <b>Tamaño de la muestra:<b> {point.alcance_de_la_muestra}"
                 ), headerFormat = ""),
                 name = "Evo Morales", id = "morales") %>% 
   hc_add_series(mesa, type = "line", color = 'orange', 
@@ -124,7 +147,7 @@ hc2 <- highchart() %>%
                                                          <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
                                                          <b>Encuestadora:<b> {point.encuestadora_1}<br>
                                                          <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
+                                                         <b>Tamaño de la muestra:<b> {point.alcance_de_la_muestra}"
                 ), headerFormat = ""),
                 name = "Carlos Mesa", id = "mesa") %>% 
   hc_add_series(ortiz, type = "line", color = 'red', 
@@ -133,7 +156,7 @@ hc2 <- highchart() %>%
                                                          <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
                                                          <b>Encuestadora:<b> {point.encuestadora_1}<br>
                                                          <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
+                                                         <b>Tamaño de la muestra:<b> {point.alcance_de_la_muestra}"
                 ), headerFormat = ""),
                 name = "Oscar Ortiz", id = "ortiz") %>% 
   hc_add_series(otros, type = "line", color = '#A9A9A9', visible = F,  
@@ -142,7 +165,7 @@ hc2 <- highchart() %>%
                                                          <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
                                                          <b>Encuestadora:<b> {point.encuestadora_1}<br>
                                                          <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
+                                                         <b>Tamaño de la muestra:<b> {point.alcance_de_la_muestra}"
                 ), headerFormat = ""),
                 name = "Otras candidaturas", id = "otros") %>% 
   hc_add_series(no_declarado, type = "line", color = '#00b200', visible = F,
@@ -151,7 +174,7 @@ hc2 <- highchart() %>%
                                                          <b>Fecha de cierre encuesta:<b> {point.fecha_1}<br>
                                                          <b>Encuestadora:<b> {point.encuestadora_1}<br>
                                                          <b>Margen de error:<b> {point.margen_error} %<br>
-                                                         <b>Tamaño de la muestra:<b> {point.alcance_muestra}"
+                                                         <b>Tamaño de la muestra:<b> {point.alcance_de_la_muestra}"
                 ), headerFormat = ""),
                 name = "Voto no declarado", id = "no_declarado") %>%
   hc_xAxis(categories = morales$fecha_2,
@@ -159,7 +182,7 @@ hc2 <- highchart() %>%
            title = list(enabled = T)) %>% 
   hc_yAxis(title = list(text = "Intención de voto")) %>% 
   hc_title(text = "Tendencia electoral") %>% 
-  hc_subtitle(text = "Elecciones generales Bolivia 2019") %>% 
+  hc_subtitle(text = paste0("Elecciones generales Bolivia 2019", " (", fecha_actualizacion, ")"))  %>% 
   hc_tooltip(shared = F) %>% 
   hc_plotOptions(line = list(
     lineWidth = 4,

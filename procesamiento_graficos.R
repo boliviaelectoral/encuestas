@@ -161,13 +161,23 @@ hc2 <- highchart() %>%
     ))
   ) %>% 
   hc_add_theme(hc_theme_elementary()) %>% 
-  hc_credits(enabled = TRUE, text = "Bolivia Electoral", href = "http://www.boliviaelectoral.com/") %>% 
+  hc_credits(enabled = TRUE, text = "BoliviaElectoral.com", href = "http://www.boliviaelectoral.com/") %>% 
   hc_exporting(
     enabled = TRUE
-  )
+  ) 
 
 
 htmlwidgets::saveWidget(hc2, here::here("img", "sin_margen_error.html"))
+
+#### jalar los datos desde el drive de la votación
+# extraer archivo
+bd <- gs_title("Monitoreo de encuestas, drive privado")
+
+# extaer hoja
+df <- gs_read(ss = bd, ws = "Base de datos")
+
+
+
 
 
 

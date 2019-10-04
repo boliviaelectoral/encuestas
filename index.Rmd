@@ -81,8 +81,23 @@ Padrón electoral {data-icon="fa-address-card"}
 <br>
 <br>
 
-<center><iframe frameBorder="0" src="img/bolivia_ext_padron.html" width="50%" height="500" allowtransparency="true"></iframe></center>
+<center><iframe frameBorder="0" src="img/padron_dpto.html" width="50%" height="500" allowtransparency="true"></iframe></center>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<center><iframe frameBorder="0" src="img/mapa_municipios.html" width="80%" height="700" allowtransparency="true"></iframe></center>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<center><iframe frameBorder="0" src="img/paises_barras.html" width="50%" height="1000" allowtransparency="true"></iframe></center>
 
 Sobre el proyecto {data-icon="fa-sticky-note"}
 =====================================  

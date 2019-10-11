@@ -99,6 +99,19 @@ Padrón electoral {data-icon="fa-address-card"}
 
 <center><iframe frameBorder="0" src="img/paises_barras.html" width="50%" height="1000" allowtransparency="true"></iframe></center>
 
+Programas de gobierno {data-icon="fa-book-open"}
+=====================================  
+Row {.tabset .tabset-fade}
+-------------------------------------
+### Programas de gobierno
+
+### Comparación de los programas en la prensa
+<iframe frameBorder="0" src="img/planes_periodicos.html" width="100%" height="100%" allowtransparency="true"></iframe>
+
+
+### Comparación de los programas por cuatro instituciones
+<iframe frameBorder="0" src="img/planes_instituciones.html" width="100%" height="100%" allowtransparency="true"></iframe>
+
 Sobre el proyecto {data-icon="fa-sticky-note"}
 =====================================  
 Esta iniciativa busca recopilar información relevante para el proceso electoral en Bolivia, de cara a las elecciones generales del 20 de octubre de 2019. En su primera fase, el proyecto reúne cifras de todas las encuestas electorales publicadas en Bolivia desde noviembre de 2016 hasta la fecha, difundidos en más de 10 medios, y producidos por 7 encuestadoras. En base a la visualización y sistematización de más de 46 encuestas publicadas, el objetivo consiste en ofrecer insumos para analizar estos resultados en su conjunto.<br>

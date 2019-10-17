@@ -6,7 +6,7 @@ library(magrittr)
 library(extrafont)
 library(htmltools)
 
-extrafont::font_import()
+
 # descarga del archivo
 bd <- gs_title("Monitoreo de encuestas, drive privado")
 
@@ -14,7 +14,7 @@ bd <- gs_title("Monitoreo de encuestas, drive privado")
 # Monitoreo de encuestas, drive privado
 
 # seleccion de hoja
-df <- gs_read(ss = bd, ws = "fuentes_encuestas")
+df <- gs_read(ss = bd, ws = "Fuentes de las encuestas")
 
 # sacar nota
 nota <- df %>% 
@@ -23,7 +23,7 @@ nota <- df %>%
   
 # quitar filas y columnas
 df %<>% 
-  select(-X7, -codigo_encuesta) %>% 
+  select(-X7, -`Código de encuesta`) %>% 
   filter(str_detect(Encuestadora, "Notas", negate = T)) %>% 
   filter(str_detect(Encuestadora, "\\*", negate = T))
 
@@ -54,7 +54,7 @@ reactable(df, filterable = TRUE, pagination = FALSE, columns = list(
       fontFamily = "Roboto"
     )
   ),
-  `Enlace a resultados` = colDef(
+  `Enlaces a resultados y ficha técnica` = colDef(
     cell = function(value) {
       url <- paste0(value)
       tags$a(href = url, target = "_blank", paste0("enlace"))
@@ -67,14 +67,122 @@ reactable(df, filterable = TRUE, pagination = FALSE, columns = list(
 ) %>% 
   htmlwidgets::saveWidget(here::here("img", "tabla.html"))
 
+#--------------------------------------------
+# tablas sobre programas de gobierno
 
+bd <- gs_title("Programas de Gobierno")
+
+
+# seleccion de hoja
+df <- gs_read(ss = bd, ws = "Comparación de programas en periódicos")
+
+colnames(df) <- df %>% slice(1)
+df %<>% slice(-1)
+
+colnames(df)
+
+reactable(df, filterable = TRUE, pagination = FALSE, wrap = T, columns = list(
+  Tema = colDef(
+    style = list(
+      fontFamily = "Roboto",
+      wrap = F
+    )
+  ),
+  `Medio de publicación` = colDef(
+    style = list(
+      fontFamily = "Roboto"
+    )
+  ),
+  `Fecha de publicación` = colDef(
+    style = list(
+      fontFamily = "Roboto"
+    )
+  ),
+  `N°` = colDef(
+    style = list(
+      fontFamily = "Roboto"
+    )
+  ),
+  Fuente = colDef(
+    cell = function(value) {
+      url <- paste0(value)
+      tags$a(href = url, target = "_blank", paste0("enlace"))
+    },
+    style = list(
+      fontFamily = "Roboto"
+    )
+  )
+)
+) %>% 
+  htmlwidgets::saveWidget(here::here("img", "planes_periodicos.html"))
+
+# tabla de comparacion de programas òr instituciones
+df <- gs_read(ss = bd, ws = "Comparación de programas por cuatro instituciones")
+
+colnames(df) <- df %>% slice(1)
+df %<>% slice(-1)
+
+colnames(df)
+reactable(df, filterable = TRUE, pagination = FALSE, wrap = T, columns = list(
+  Nombre = colDef(
+    style = list(
+      fontFamily = "Roboto",
+      wrap = F
+    )
+  ),
+  Institución = colDef(
+    style = list(
+      fontFamily = "Roboto"
+    )
+  ),
+  Objetivo = colDef(
+    style = list(
+      fontFamily = "Roboto"
+    )
+  ),
+  `Nº` = colDef(
+    style = list(
+      fontFamily = "Roboto"
+    )
+  ),
+  Temas = colDef(
+    style = list(
+      fontFamily = "Roboto"
+    )
+  ),
+  `Fecha de publicación` = colDef(
+    style = list(
+      fontFamily = "Roboto"
+    )
+  ),
+  Fuente = colDef(
+    cell = function(value) {
+      url <- paste0(value)
+      tags$a(href = url, target = "_blank", paste0("enlace"))
+    },
+    style = list(
+      fontFamily = "Roboto"
+    )
+  )
+)
+) %>% 
+  htmlwidgets::saveWidget(here::here("img", "planes_instituciones.html"))
+
+
+
+
+
+#----------------------------------------
 # procesamiento de tabla para público
-encuestas <- rio::import("output_para_procesar/encuestas.xlsx") %>% 
-  select(-mes, -año)
-fichas <- readxl::read_excel("output_para_procesar/fichas.xlsx") %>% 
-  select(-año, -no, -método)
+encuestas <- gs_read(ss = bd, ws = "Base de datos") %>% 
+  janitor::clean_names() %>% 
+  select(-mes, -ano)
 
-df_1 <- merge(encuestas, fichas)
+fichas <- gs_read(ss = bd, ws = "Fichas de las encuestas") %>% 
+  janitor::clean_names()  %>% 
+  select(-ano, -no, -metodo)
+
+df_1 <- merge(encuestas, fichas, all.x = T)
 
 #  cambio de nombres
 df_1$partido_o_alianza %<>% gsub("CC", "Comunidad Ciudadana", .)
@@ -152,12 +260,14 @@ df_1 %>%
 
 
 
-  
+data %>% View
+
+ew()data <- aggregate(. ~ Species, iris, toString)
+
+reactable(data, wrap = T, resizable = TRUE)
 
 
-
-
-
+devtools::install_github("glin/reactable")
 
 
   

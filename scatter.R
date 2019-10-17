@@ -5,7 +5,10 @@ library(reactable)
 library(magrittr)
 library(extrafont)
 library(htmltools)
+library(broom)
+library(highcharter)
 
+bd <- gs_title("Monitoreo de encuestas, drive privado")
 encuestas <- gs_read(ss = bd, ws = "Base de datos") %>% janitor::clean_names()
 
 encuestas %>% 
@@ -123,7 +126,6 @@ fit_ortiz <- augment(ortiz_pred) %>%
   mutate(no = 1:nrow(.)) %>% 
   select(no, .fitted)
 
-
 otros <- df %>% 
   filter(candidato == "otros") %>%
   group_by(margen_error, confianza, alcance_de_la_muestra, fecha_inicio_encuesta, fecha_conclusion_encuesta, encuestadora_1, fecha_1, fecha) %>% 
@@ -170,12 +172,21 @@ otros_pred <- lm(valor_1 ~ poly(num, 3), data = otros)
 fit_otros <- augment(otros_pred) %>% 
   mutate(no = 1:nrow(.)) %>% 
   select(no, .fitted) %>% 
-  filter(no != 51)
+  filter(no != 56)
 
 no_declarado_pred <- lm(valor_1 ~ poly(num, 3), data = no_declarado) 
 fit_no_declarado <- augment(no_declarado_pred) %>% 
   mutate(no = 1:nrow(.)) %>% 
   select(no, .fitted)
+
+fecha_actualizacion <- Sys.Date()
+fecha_actualizacion <- paste0("Actualizado el: ", lubridate::day(fecha_actualizacion),
+                              "-", lubridate::month(fecha_actualizacion), 
+                              "-", lubridate::year(fecha_actualizacion))
+num_encuestas <- fit_evo %>% nrow
+num_encuestadoras <- df$encuestadora_1 %>% unique %>% length()
+
+
 
 hc4 <- highchart() %>% 
   hc_add_series(morales, type = "scatter", color = highcharter::hex_to_rgba("blue", alpha = 0.6), 
@@ -257,7 +268,7 @@ hc4 <- highchart() %>%
            tickmarkPlacement = "on",
            title = list(enabled = T)) %>% 
   hc_yAxis(title = list(text = "Intención de voto")) %>% 
-  hc_title(text = "Intención de voto") %>% 
+  hc_title(text = paste0("Intención de voto: ", num_encuestas, " encuestas, ", num_encuestadoras, " encuestadoras")) %>% 
   hc_subtitle(text = paste0("Elecciones generales Bolivia 2019", " (", fecha_actualizacion, ")"))  %>% 
   hc_tooltip(shared = F) %>% 
   hc_plotOptions(line = list(
@@ -370,7 +381,7 @@ otros_pred <- lm(valor_2 ~ poly(num, 3), data = otros)
 fit_otros <- augment(otros_pred) %>% 
   mutate(no = 1:nrow(.)) %>% 
   select(no, .fitted) %>% 
-  filter(no != 51)
+  filter(no != 56)
 
 
 hc5 <- highchart() %>% 
@@ -438,7 +449,7 @@ hc5 <- highchart() %>%
            tickmarkPlacement = "on",
            title = list(enabled = T)) %>% 
   hc_yAxis(title = list(text = "Intención de voto")) %>% 
-  hc_title(text = "Intención de voto válido") %>% 
+  hc_title(text = paste0("Intención de voto válido: ", num_encuestas, " encuestas, ", num_encuestadoras, " encuestadoras")) %>% 
   hc_subtitle(text = paste0("Elecciones generales Bolivia 2019", " (", fecha_actualizacion, ")"))  %>% 
   hc_tooltip(shared = F) %>% 
   hc_plotOptions(line = list(

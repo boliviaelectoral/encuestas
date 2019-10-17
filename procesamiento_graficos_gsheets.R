@@ -191,7 +191,6 @@ hc2 <- highchart() %>%
       duration = 3000 
     ),
     marker = list(
-      lineWidth = 300,
       lineColor = "#ffffff",
       enabled = F
     ),
@@ -200,7 +199,7 @@ hc2 <- highchart() %>%
       format = "{point.valor:.0f} %"
     ))
   ) %>% 
-  hc_add_theme(hc_theme_elementary()) %>% 
+  hc_add_theme(hc_theme_smpl()) %>% 
   hc_credits(enabled = TRUE, text = "BoliviaElectoral.com", href = "http://www.boliviaelectoral.com/") %>% 
   hc_exporting(
     enabled = TRUE

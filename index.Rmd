@@ -50,6 +50,7 @@ Considerando que algunos meses incluyen la publicación de varias encuestas, la 
 
 Para el mes de junio 2019 (durante el cual no se publicaron encuestas, en buena parte debido a restricciones por parte del Tribunal Supremo Electoral [TSE]), se incluye una estimación que toma como promedio los datos del mes anterior y el mes siguiente. 
 
+En 3 casos (uno de PyP, y dos de Captura Consulting), se utilizó un estimado de votos por otros candidatos (dado que los mismos no fueron publicados), para estimar el voto válido, de acuerdo a cada encuesta.
 
 Base de datos {data-icon="fa-database"}
 =====================================  
